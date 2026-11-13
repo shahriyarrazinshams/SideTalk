@@ -1,6 +1,8 @@
 {
-  "versionCode": 11,
-  "updateUrl": "https://github.com/shahriyarrazinshams/SideTalk/releases/download/V3.10.4/SideTalk.apk",
-  "updateTitle": "New Update Available!",
-  "updateMessage": "V2.10.4 is here! Update to use nor App maybe unstable."
+  "versionCode": 10,
+  "versionName": "2.10.6",
+  "title": "New Update Available!",
+  "message": "Update Now, nor the app maybe unstable",
+  "downloadUrl": "https://example.com/SideTalk.apk",
+  "forceUpdate": false
 }
