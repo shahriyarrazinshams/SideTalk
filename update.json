@@ -4,5 +4,5 @@
   "title": "New Update Available!",
   "message": "Update Now, nor the app maybe unstable",
   "downloadUrl": "https://github.com/shahriyarrazinshams/SideTalk/releases/download/V3.10.7/SideTalk.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 }
