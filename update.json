@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "3.13.33",
+  "versionCode": 15,
+  "versionName": "3.13.40",
   "title": "New Update Available!",
-  "message": "Update Now,This update is goes to you, Anik",
-  "downloadUrl": "https://github.com/shahriyarrazinshams/SideTalk/releases/download/V3.13.33/SideTalk.apk",
+  "message": "আপডেট আইছে রে,,আপডেট দে আর Settings Screen চেক কর",
+  "downloadUrl": "https://github.com/shahriyarrazinshams/SideTalk/releases/download/V3.13.40/SideTalk.apk",
   "forceUpdate": true
 }
